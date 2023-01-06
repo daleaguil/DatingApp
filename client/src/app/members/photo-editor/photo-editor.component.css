@@ -1,0 +1,21 @@
+img.img-thumbnail {
+    height: 100px;
+    min-width: 100px !important;
+    margin-bottom: 2px;
+}
+
+.nv-file-over {
+    border: dotted 3px red;
+}
+
+input[type=file] {
+    color: transparent;
+}
+
+.progress-section button {
+    margin: 5px 5px 5px 0;
+}
+
+.primary {
+    font-size: 0.8rem;
+}
